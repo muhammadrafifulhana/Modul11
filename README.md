@@ -1,5 +1,5 @@
 ## **Soal Latihan: 1**  
-## **Program Pemilihan Ketua RT**  
+### **Program Pemilihan Ketua RT**  
 
 **Penjelasan Program:**  
 1. **Tujuan**: Program digunakan untuk menghitung jumlah suara yang masuk, jumlah suara sah, dan jumlah suara yang diterima oleh setiap calon ketua RT. Program juga memastikan bahwa suara tidak valid tidak dihitung untuk kandidat.  
@@ -9,6 +9,8 @@
    - Simpan jumlah suara untuk setiap kandidat dalam bentuk daftar berdasarkan nomor kandidat.  
    - Cetak jumlah total suara, jumlah suara sah, dan jumlah suara yang diterima setiap kandidat (1-20).  
 3. **Output**:  
+
+   <img width="307" alt="Screenshot 2024-12-06 at 9 45 26 PM" src="https://github.com/user-attachments/assets/3c1b58c5-4260-4bfa-ab10-fa4393c184bb">
 
 ---
 
@@ -22,6 +24,8 @@
    - **Pencarian Biner**: Pencarian dilakukan dengan cara mencari posisi bilangan di dalam daftar terurut menggunakan metode pencarian biner untuk efisiensi waktu.
    - Jika bilangan ditemukan, tampilkan posisi indeksnya, jika tidak ditemukan tampilkan pesan "TIDAK ADA".
 3. **Output**
+
+   <img width="306" alt="Screenshot 2024-12-06 at 9 45 50 PM" src="https://github.com/user-attachments/assets/9e474bd2-934c-4f0c-b710-7dad64868b56">
 
 **Catatan**: Penjelasan alur dan output pada soal latihan 2 sudah dijelaskan sebelumnya pada soal latihan 1, sehingga penjelasan di sini tidak perlu dijelaskan lagi secara rinci.
 
@@ -41,6 +45,7 @@
    - Menghitung berat terkecil, terbesar, dan rata-rata.
    - Menampilkan hasil perhitungan berat balita minimum, maksimum, dan rata-rata.
 4. **Output**
-    
+   
+    <img width="321" alt="Screenshot 2024-12-06 at 9 46 37 PM" src="https://github.com/user-attachments/assets/50309285-a8f1-4835-8410-285951c818aa">
 
 ---
